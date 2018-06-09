@@ -2,6 +2,7 @@
 Four type of text cipher using C++ and QT
 
 Date   :  09-Jun-2018
+
 Auther :  Ehab Fawzy Ibrahim
 
 Types  : 1- Caesar Cipher
